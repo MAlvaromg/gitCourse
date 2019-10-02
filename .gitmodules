@@ -1,0 +1,3 @@
+[submodule "gitDependency"]
+	path = gitDependency
+	url = https://github.com/MAlvaromg/gitDependency.git
