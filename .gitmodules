@@ -1,3 +1,6 @@
 [submodule "gitDependency"]
 	path = gitDependency
 	url = https://github.com/MAlvaromg/gitDependency.git
+[submodule "api-guidelines"]
+	path = api-guidelines
+	url = https://github.com/microsoft/api-guidelines
